@@ -1,5 +1,6 @@
 export default [
     {
+        id: 1,
         title: "Auckland", 
         location: "New Zealand", 
         googleMapsUrl: "https://goo.gl/maps/YMpTpNUkksLP8a91A",
@@ -9,6 +10,7 @@ export default [
         imageUrl: "./images/auckland.jpg"
     },
     {
+        id: 2,
         title: "Chiang Mai",
         location: "Thailand",
         googleMapsUrl: "https://goo.gl/maps/oMMmLvHXK5JGxxuG7",
@@ -18,6 +20,7 @@ export default [
         imageUrl: "./images/chiang-mai.webp",
     },
     {
+        id: 3,
         title: "Chanthaburi",
         location: "Thailand",
         googleMapsUrl: "https://goo.gl/maps/t7Gc9fYUNjnHNGM87",
@@ -27,6 +30,7 @@ export default [
         imageUrl: "./images/chanthaburi.jpg",
     },
     {
+        id: 4,
         title: "Pattaya",
         location: "Thailand",
         googleMapsUrl: "https://goo.gl/maps/AemeKLnwABv8bhqH7",
@@ -36,6 +40,7 @@ export default [
         imageUrl: "./images/pattaya.jpg"
     },
     {
+        id: 5,
         title: "Bangkok",
         location: "Thailand",
         googleMapsUrl: "https://goo.gl/maps/zWwhd2weVUL3vDze9",
@@ -45,6 +50,7 @@ export default [
         imageUrl: "./images/bangkok.jpg"
     },
     {
+        id: 6,
         title: "Vientiane", 
         location: "Laos",
         googleMapsUrl: "https://goo.gl/maps/Fw2xpNj3pVMhWBdf7",
@@ -54,6 +60,7 @@ export default [
         imageUrl: "./images/vientiane.webp"
     },
     {
+        id: 7,
         title: "Koh Samui",
         location: "Thailand",
         googleMapsUrl: "https://goo.gl/maps/ixW6Hy2c2eRJaZS57",
@@ -63,6 +70,7 @@ export default [
         imageUrl: "./images/koh-samui.jpg"
     },
     {
+        id: 8,
         title: "Phuket",
         location: "Thailand",
         googleMapsUrl: "https://goo.gl/maps/3vEFMvRQZNpmCj4g6",
@@ -72,6 +80,7 @@ export default [
         imageUrl: "./images/phuket.jpg"
     },
     {
+        id: 9,
         title: "Koh Phi Phi Don",
         location: "Thailand",
         googleMapsUrl: "https://goo.gl/maps/AFTRiwkbZCX8aGkS6",

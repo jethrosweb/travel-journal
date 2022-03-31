@@ -5,7 +5,7 @@ import data from "./data"
 
 export default function App() {
     return (
-    <div>
+    <div className="app--container">
         <Navbar />
         <Cards />
     </div>
