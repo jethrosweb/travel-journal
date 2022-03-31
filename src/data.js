@@ -7,7 +7,7 @@ export default [
         startDate: "Nov 2018", 
         endDate: "Nov 2018", 
         description: "Auckland, based around 2 large harbours, is a major city in the north of New Zealand’s North Island. In the centre, the iconic Sky Tower has views of Viaduct Harbour, which is full of superyachts and lined with bars and cafes.",
-        imageUrl: "./images/auckland.jpg"
+        imageUrl: "./images/auckland.png"
     },
     {
         id: 2,
@@ -17,7 +17,7 @@ export default [
         startDate: "Nov 2015",
         endDate: "Aug 2016",
         description: "Chiang Mai, located in a mountainous region, is the largest city in northern Thailand and the second largest city in Thailand. Its Old City area still retains vestiges of walls and moats from its history as a cultural and religious center.",
-        imageUrl: "./images/chiang-mai.webp",
+        imageUrl: "./images/chiang-mai.png",
     },
     {
         id: 3,
@@ -27,7 +27,7 @@ export default [
         startDate: "June 2015",
         endDate: "June 2015",
         description: "Chanthaburi is a province in southeast Thailand, fringing the Gulf of Thailand and known for gem dealing and tropical fruit.",
-        imageUrl: "./images/chanthaburi.jpg",
+        imageUrl: "./images/chanthaburi.png",
     },
     {
         id: 4,
@@ -37,7 +37,7 @@ export default [
         startDate: "June 2015",
         endDate: "June 2015",
         description: "Pattaya is a city on Thailand’s eastern Gulf coast known for its beaches. The Pattaya Bay area is one of Asia's largest beach resorts and the second most visited city in Thailand, after Bangkok.",
-        imageUrl: "./images/pattaya.jpg"
+        imageUrl: "./images/pattaya.png"
     },
     {
         id: 5,
@@ -47,7 +47,7 @@ export default [
         startDate: "June 2015",
         endDate: "July 2015",
         description: "Bangkok is the capital and most populous city of Thailand. It is a large city known for ornate shrines and vibrant street life.",
-        imageUrl: "./images/bangkok.jpg"
+        imageUrl: "./images/bangkok.png"
     },
     {
         id: 6,
@@ -57,7 +57,7 @@ export default [
         startDate: "Feb 2015",
         endDate: "Feb 2015",
         description: "Vientiane, Laos' national capital, mixes French-colonial architecture with Buddhist temples. Vientiane is noted as the home of the most significant national monuments in Laos – That Luang.",
-        imageUrl: "./images/vientiane.webp"
+        imageUrl: "./images/vientiane.png"
     },
     {
         id: 7,
@@ -67,7 +67,7 @@ export default [
         startDate: "Nov 2013",
         endDate: "Nov 2013",
         description: "Ko Samui, Thailand’s second largest island, lies in the Gulf of Thailand off the east coast of the Kra Isthmus. It's known for its palm-fringed beaches, coconut groves and dense, mountainous rainforest, plus luxury resorts and posh spas.",
-        imageUrl: "./images/koh-samui.jpg"
+        imageUrl: "./images/koh-samui.png"
     },
     {
         id: 8,
@@ -77,7 +77,7 @@ export default [
         startDate: "July 2011", 
         endDate: "July 2011",
         description: "Phuket is the largest island in Thailand. It has some of Thailand’s most popular beaches, mainly situated along the clear waters of the western shore.",
-        imageUrl: "./images/phuket.jpg"
+        imageUrl: "./images/phuket.png"
     },
     {
         id: 9,
@@ -87,6 +87,6 @@ export default [
         startDate: "July 2011", 
         endDate: "July 2011", 
         description: "Ko Phi Phi Don is the main island of Thailand’s Ko Phi Phi archipelago. It’s known for its white-sand beaches, including Long Beach and Loh Dalum Bay. Offshore, tiny Ko Phi Phi Leh is home to secluded Maya Bay, encircled by limestone cliffs.",
-        imageUrl: "./images/koh-phi-phi.jpg"
+        imageUrl: "./images/koh-phi-phi.png"
     }
 ]
